@@ -1,0 +1,40 @@
+html {
+  box-sizing: border-box;
+  font-family: 'Oswald', sans-serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+}
+
+.img-flex {
+  display: block;
+  width: 100%;
+}
+
+/* lato and oswald */ /*font-family: 'Lato', sans-serif; */
+
+nav {
+  font-family: 'Lato', sans-serif;
+  text-decoration: none;
+  color: black;
+}
+
+a:link {
+    color: black;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    float: left;
+    border: 1px;
+}
+
+.banner {
+  color: white;
+  background-color: black;
+}

@@ -16,8 +16,6 @@ body {
   width: 100%;
 }
 
-/* lato and oswald */ /*font-family: 'Lato', sans-serif; */
-
 nav {
   font-family: 'Lato', sans-serif;
   text-decoration: none;
@@ -37,4 +35,8 @@ a:link {
 .banner {
   color: white;
   background-color: black;
+}
+
+.main {
+  background-color: #e2e2e2;
 }
